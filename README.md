@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Aarshee!
 
-<!--
-**RCCOUP/RCCOUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc CSIT student at Academia. sharing about learning web development and programming.  
+Building small projects  
 
-Here are some ideas to get you started:
+Thanks for stopping by my GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Let's Connect:**  
+Feel free to reach out or explore my repositories!
+[![Aarshee's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
